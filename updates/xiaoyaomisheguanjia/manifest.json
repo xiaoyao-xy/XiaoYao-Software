@@ -1,0 +1,24 @@
+{
+  "tagId": "xiaoyaomisheguanjia",
+  "displayName": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6",
+  "versionName": "1.0.26",
+  "title": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6v1.0.26",
+  "content": "\u4F18\u5316\u5DF2\u77E5bug\uFF01",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.26/-1.0.26-.exe",
+  "sha256": "650c548a5e924673abe25e76a21f563529b91a9f54fad9fa14e8909378177869",
+  "size": 120376946,
+  "platform": "windows-x64",
+  "platforms": [
+    {
+      "id": "windows-x64",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.26/-1.0.26-.exe",
+      "sha256": "650c548a5e924673abe25e76a21f563529b91a9f54fad9fa14e8909378177869",
+      "size": 120376946
+    }
+  ],
+  "publishedAt": 1794831891000,
+  "forceUpdate": false,
+  "enabled": true,
+  "displayUpdatedAt": 0,
+  "announcement": null
+}
