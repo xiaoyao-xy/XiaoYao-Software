@@ -1,0 +1,21 @@
+{
+  "tagId": "xiaoyaoyuanmaguanjia",
+  "versionName": "1.0.222",
+  "title": "\u6D4B\u8BD5",
+  "content": "\u6D4B\u8BD5",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyuanmaguanjia-v1.0.222/default.exe",
+  "sha256": "c4ce492115f056ec579163ff488d8fa13f30a3982a7c50f5257aa87d6d9fcbe1",
+  "size": 2648064,
+  "platform": "windows-x64",
+  "platforms": [
+    {
+      "id": "windows-x64",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyuanmaguanjia-v1.0.222/default.exe",
+      "sha256": "c4ce492115f056ec579163ff488d8fa13f30a3982a7c50f5257aa87d6d9fcbe1",
+      "size": 2648064
+    }
+  ],
+  "publishedAt": 1794801103577,
+  "forceUpdate": false,
+  "enabled": true
+}
