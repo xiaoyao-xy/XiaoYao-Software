@@ -3,8 +3,8 @@
   "fallbackDownloadUrl": "",
   "tagId": "xiaoyaomisheguanjia",
   "displayName": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6",
-  "versionName": "1.0.29",
-  "title": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6v1.0.29",
+  "versionName": "1.0.35",
+  "title": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6v1.0.35",
   "content": "\u4F18\u5316\u5DF2\u77E5bug\uFF01",
   "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.27/-1.0.27-.exe",
   "sha256": "425fde2668c83759cb4daadbd261ea46c929ca00772949574638ddbdbdb6ca47",
@@ -18,7 +18,7 @@
       "size": 120377895
     }
   ],
-  "publishedAt": 1794891793612,
+  "publishedAt": 1794892595259,
   "forceUpdate": false,
   "enabled": true,
   "displayUpdatedAt": 0,
