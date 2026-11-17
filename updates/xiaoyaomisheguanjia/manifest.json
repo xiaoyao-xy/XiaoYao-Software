@@ -3,22 +3,22 @@
   "fallbackDownloadUrl": "",
   "tagId": "xiaoyaomisheguanjia",
   "displayName": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6",
-  "versionName": "1.0.39",
-  "title": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6v1.0.39\u7248\u672C\u66F4\u65B0",
+  "versionName": "1.0.41",
+  "title": "\u900D\u9065\u7C73\u6444\u7BA1\u5BB6v1.0.41\u7248\u672C\u66F4\u65B0",
   "content": "\u4F18\u5316\u5DF2\u77E5bug\uFF01\r\n\r\n\u4F18\u5316\u68C0\u6D4B\u66F4\u65B0\u4F53\u9A8C\uFF01",
-  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.39/-1.0.39-.exe",
-  "sha256": "1b1afa8860be6170a544d3133d1a1bdf8512e23f81a231dec1cee431c808edd6",
-  "size": 120398438,
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.41/-1.0.41-.exe",
+  "sha256": "083651e4fb57afe4e766817c8b8941aedf56a2c23a462173ca268427fd764257",
+  "size": 120421667,
   "platform": "windows-x64",
   "platforms": [
     {
       "id": "windows-x64",
-      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.39/-1.0.39-.exe",
-      "sha256": "1b1afa8860be6170a544d3133d1a1bdf8512e23f81a231dec1cee431c808edd6",
-      "size": 120398438
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaomisheguanjia-v1.0.41/-1.0.41-.exe",
+      "sha256": "083651e4fb57afe4e766817c8b8941aedf56a2c23a462173ca268427fd764257",
+      "size": 120421667
     }
   ],
-  "publishedAt": 1794903880000,
+  "publishedAt": 1794907827000,
   "forceUpdate": false,
   "enabled": true,
   "displayUpdatedAt": 0,
