@@ -1,0 +1,26 @@
+{
+  "backupManifestUrl": "",
+  "fallbackDownloadUrl": "",
+  "tagId": "xiaoyaoyuanmaguanjia",
+  "displayName": "\u900D\u9065\u6E90\u7801\u7BA1\u5BB6",
+  "versionName": "1.0.230",
+  "title": "\u900D\u9065\u6E90\u7801\u7BA1\u5BB6v1.0.230",
+  "content": "\u4F18\u5316\u5DF2\u77E5bug\uFF01",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyuanmaguanjia-v1.0.230/default.exe",
+  "sha256": "1d0c11a999e941039848c5f3b1da5e975fad92faf62000521be58ef0cf99ad4d",
+  "size": 2715136,
+  "platform": "windows-x64",
+  "platforms": [
+    {
+      "id": "windows-x64",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyuanmaguanjia-v1.0.230/default.exe",
+      "sha256": "1d0c11a999e941039848c5f3b1da5e975fad92faf62000521be58ef0cf99ad4d",
+      "size": 2715136
+    }
+  ],
+  "publishedAt": 1794916917000,
+  "forceUpdate": false,
+  "enabled": true,
+  "displayUpdatedAt": 0,
+  "announcement": null
+}
