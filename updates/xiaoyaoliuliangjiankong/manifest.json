@@ -1,0 +1,26 @@
+{
+  "backupManifestUrl": "",
+  "fallbackDownloadUrl": "",
+  "tagId": "xiaoyaoliuliangjiankong",
+  "displayName": "\u900D\u9065\u6D41\u91CF\u76D1\u63A7",
+  "versionName": "1.1.11",
+  "title": "\u900D\u9065\u6D41\u91CF\u76D1\u63A7v1.1.11",
+  "content": "\u4F18\u5316\u4F7F\u7528\u4F53\u9A8C\uFF01\r\n\u4FEE\u590D\u5DF2\u77E5BUG\uFF01",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoliuliangjiankong-v1.1.11/default.exe",
+  "sha256": "5f63560739455f3340a53bf916b7df254d65017249ade128f9f94cecc0c29a64",
+  "size": 1115136,
+  "platform": "windows-x64",
+  "platforms": [
+    {
+      "id": "windows-x64",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoliuliangjiankong-v1.1.11/default.exe",
+      "sha256": "5f63560739455f3340a53bf916b7df254d65017249ade128f9f94cecc0c29a64",
+      "size": 1115136
+    }
+  ],
+  "publishedAt": 1794878097000,
+  "forceUpdate": false,
+  "enabled": true,
+  "displayUpdatedAt": 0,
+  "announcement": null
+}
