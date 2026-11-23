@@ -3,7 +3,7 @@
   "fallbackDownloadUrl": "",
   "tagId": "xiaoyaobeiwanglu",
   "displayName": "\u900D\u9065\u5907\u5FD8\u5F55",
-  "versionName": "1.2.3",
+  "versionName": "1.2.4",
   "title": "\u900D\u9065\u5907\u5FD8\u5F55APP",
   "content": "",
   "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaobeiwanglu-v1.2.3/-1.2.3.apk",
@@ -18,9 +18,10 @@
       "size": 138002
     }
   ],
-  "publishedAt": 1795413017000,
+  "publishedAt": 1795413860888,
   "forceUpdate": false,
   "enabled": true,
   "displayUpdatedAt": 0,
-  "announcement": null
+  "announcement": null,
+  "testUpdate": true
 }
