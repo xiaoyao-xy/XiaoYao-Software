@@ -1,0 +1,26 @@
+{
+  "backupManifestUrl": "",
+  "fallbackDownloadUrl": "",
+  "tagId": "suixinjizhang",
+  "displayName": "\u968F\u5FC3\u8BB0\u8D26",
+  "versionName": "2.0.20",
+  "title": "\u968F\u5FC3\u8BB0\u8D26V2.0.20",
+  "content": "\u4F18\u5316\u5DF2\u77E5bug!",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/suixinjizhang-v2.0.20/-2.0.20.apk",
+  "sha256": "2b9dfb7e55bc07a007f789f9ad68fb87db3a0eaf9d672f48a9656f825501bff7",
+  "size": 13925414,
+  "platform": "android-universal",
+  "platforms": [
+    {
+      "id": "android-universal",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/suixinjizhang-v2.0.20/-2.0.20.apk",
+      "sha256": "2b9dfb7e55bc07a007f789f9ad68fb87db3a0eaf9d672f48a9656f825501bff7",
+      "size": 13925414
+    }
+  ],
+  "publishedAt": 1795511446000,
+  "forceUpdate": false,
+  "enabled": true,
+  "displayUpdatedAt": 0,
+  "announcement": null
+}
