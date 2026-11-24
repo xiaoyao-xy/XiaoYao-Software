@@ -1,0 +1,26 @@
+{
+  "backupManifestUrl": "",
+  "fallbackDownloadUrl": "",
+  "tagId": "xiaoyaoyinyue",
+  "displayName": "\u900D\u9065\u97F3\u4E50",
+  "versionName": "1.0.174",
+  "title": "\u900D\u9065\u97F3\u4E50v1.0.174\u7248\u672C",
+  "content": "\u65B0\u589EAI\u63A5\u5165\u4E0E\u6B4C\u66F2\u5907\u6CE8\uFF01",
+  "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyinyue-v1.0.174/-v1.0.174-win-x64.zip",
+  "sha256": "65de9704d7e3b1428c9b99229e708ad09294386b67e0809cc0ab6f8e4c066597",
+  "size": 113407977,
+  "platform": "windows-x64",
+  "platforms": [
+    {
+      "id": "windows-x64",
+      "downloadUrl": "https://github.com/xiaoyao-xy/XiaoYao-Software/releases/download/xiaoyaoyinyue-v1.0.174/-v1.0.174-win-x64.zip",
+      "sha256": "65de9704d7e3b1428c9b99229e708ad09294386b67e0809cc0ab6f8e4c066597",
+      "size": 113407977
+    }
+  ],
+  "publishedAt": 1795489591000,
+  "forceUpdate": false,
+  "enabled": true,
+  "displayUpdatedAt": 0,
+  "announcement": null
+}
